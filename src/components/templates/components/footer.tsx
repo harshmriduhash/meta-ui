@@ -1,10 +1,8 @@
 'use client';
 
 import React from 'react';
-
 import Image from './image';
 import Link from 'next/link';
-
 import { useUIConfig } from '~/context/UIConfigProvider';
 
 import { InstagramLogoIcon } from '@radix-ui/react-icons';
