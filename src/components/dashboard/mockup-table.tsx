@@ -31,9 +31,9 @@ const MockupTable = () => {
       <Table>
         <TableHeader>
           <TableRow>
-            <TableHead className='w-[100px] text-left'>NO</TableHead>
-            <TableHead>Title</TableHead>
-            <TableHead>Created</TableHead>
+            <TableHead className='w-[100px] text-left'> NO</TableHead>
+            <TableHead> Title</TableHead>
+            <TableHead> Created</TableHead>
             <TableHead className='text-right'>Status</TableHead>
             <TableHead className='text-right'>Actions</TableHead>
           </TableRow>
