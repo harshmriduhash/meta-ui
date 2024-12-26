@@ -8,7 +8,7 @@ export default function Error() {
       <div className='w-full max-w-md rounded-lg border bg-white p-8 dark:bg-gray-900'>
         <div className='space-y-4'>
           <div className='text-center'>
-            <h2 className='text-2xl font-bold text-gray-900 dark:text-gray-100'>Oopss, something went wrong!</h2>
+            <h2 className='text-2xl font-bold text-gray-900 dark:text-gray-100'>Oopss, something went wrong!!!!</h2>
             <p className='mt-2 text-gray-500 dark:text-gray-400'>
               We encountered an unexpected error. Please try again.
             </p>
