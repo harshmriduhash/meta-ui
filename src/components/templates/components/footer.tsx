@@ -59,7 +59,7 @@ export default function Footer() {
                 <div className='flex flex-col gap-4'>
                   <div className='flex items-center gap-2'>
                     <IoMdMail color='white' size={24} />
-                    <span>{footer.companyInfo.email ?? 'info@treejaws.com'}</span>
+                    <span>{footer.companyInfo.email ?? 'harshsahay2709@gmail.com'}</span>
                   </div>
                   <div className='flex items-center gap-2'>
                     <FaPhoneAlt color='white' size={24} />
