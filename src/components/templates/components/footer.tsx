@@ -67,7 +67,7 @@ export default function Footer() {
                   </div>
                   <div className='flex items-start gap-2'>
                     <FaLocationDot color='white' size={24} />
-                    <span>{footer.companyInfo.address ?? 'Treeaws St, New York'}</span>
+                    <span>{footer.companyInfo.address ?? 'Delhi-NCR, India'}</span>
                   </div>
                 </div>
               </div>
