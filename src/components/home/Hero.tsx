@@ -8,7 +8,7 @@ const Hero = () => {
           <div className='w-full px-4'>
             <div className='wow fadeInUp mx-auto max-w-[800px] text-center' data-wow-delay='.2s'>
               <h1 className='mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight'>
-                Provide your company information, and Meta will handle the rest
+                Provide your company information, and we will handle the rest
               </h1>
               <p className='mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl'>
                 AI-powered platform for creating professional websites with prebuilt templates. Input your company info
